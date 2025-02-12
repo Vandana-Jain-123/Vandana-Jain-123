@@ -18,7 +18,12 @@
 ## 🚀 Languages and Tools:
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![ChakraUI](https://img.shields.io/badge/Chakra%20UI-teal?style=for-the-badge&logo=chakraui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
