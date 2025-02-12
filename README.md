@@ -1,0 +1,33 @@
+#  Hi 👋, I'm Vandana
+
+
+
+### A passionate frontend developer from India
+
+- 🌱 I’m currently learning **Frontend Technologies with React**  
+- 👯 I’m looking to collaborate on **open-source projects**
+- 👨‍💻 My projects is available at https://vandana-jain-123.github.io/CrystalVision-Project-/
+- 💬 Ask me about **React, JavaScript, Redux, Chakra UI, Html, CSS**  
+- 📫 How to reach me: **vandana12345jain@gmail.com**  
+- ⚡ Fun fact: **I love problem-solving and designing UI!**
+
+## 🌐 Connect with me:  
+[![LinkedIn]()  
+[![Portfolio](https://vandanaportfolios.netlify.app/)  
+
+## 🚀 Languages and Tools:
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![ChakraUI](https://img.shields.io/badge/Chakra%20UI-teal?style=for-the-badge&logo=chakraui)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## 📌 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+
+
