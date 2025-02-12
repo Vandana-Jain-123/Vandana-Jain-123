@@ -27,13 +27,13 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vandana-Jain-123&show_icons=true&theme=radical)
 
 ## 📌 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana-Jain-123&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vandana-Jain-123&theme=radical)
 
 
 
