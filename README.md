@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel)](your-portfolio-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel)](https://vandanaportfolios.netlify.app/)  
 
 
 ## 🚀 Languages and Tools:
