@@ -12,8 +12,9 @@
 - ⚡ Fun fact: **I love problem-solving and designing UI!**
 
 ## 🌐 Connect with me:  
-[![LinkedIn]()  
-[![Portfolio](https://vandanaportfolios.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel)](your-portfolio-url)  
+
 
 ## 🚀 Languages and Tools:
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
