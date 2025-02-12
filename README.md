@@ -33,7 +33,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana-Jain-123&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak:
-![Streak](https://github-readme-streak-stats.vercel.app?user=Vandana-Jain-123&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vandana-jain-123&theme=radical)
+
 
 
 
