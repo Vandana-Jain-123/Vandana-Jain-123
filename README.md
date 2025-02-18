@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I love problem-solving and designing UI!**
 
 ## 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vandanaanand1)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel)](https://vandanaportfolios.netlify.app/)  
 
 ## 🚀 Languages and Tools:
